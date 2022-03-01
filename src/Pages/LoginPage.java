@@ -6,10 +6,10 @@ public class LoginPage {
 
 		System.out.println("Hello Home Page ");
 		
-//		String username = "admin";
-//		String password = "admin";
-//		
-//		System.out.println("logged in....");
+		String username = "admin";
+		String password = "admin";
+		
+		System.out.println("logged in....");
 		
 		
 		
