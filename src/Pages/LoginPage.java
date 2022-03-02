@@ -10,7 +10,7 @@ public class LoginPage {
 		String password = "admin";
 		
 		System.out.println("logged in....");
-		
+		System.out.println("logged out....");
 		
 		
 		
